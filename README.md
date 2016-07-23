@@ -31,3 +31,10 @@ git checkout master
 git merge update-Readme
 git push
 
+
+
+git pull
+git add .
+git status
+git commit
+git push

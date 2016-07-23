@@ -27,3 +27,7 @@ Changes to be committed:
 
 git push --set-upstream origin update-Readme
 git push
+git checkout master
+git merge update-Readme
+git push
+

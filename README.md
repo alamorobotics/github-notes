@@ -3,6 +3,11 @@
 Create the repository in https://github.com
 Add .gitignore and Licence, create default readme.
 
+git config --global credential.helper "cache --timeout=3600"
+git config --global credential.helper cache
+git config --global user.name "Fredrik Safstrom"
+git config --global user.email ...
+
 On the computer:
 git clone https://github.com/alamorobotics/github-notes
 cd github-notes
